@@ -35,4 +35,4 @@ Below is a list of the courses I completed. There are currently 8 courses with a
 
 ### Cybersecurity
 
--Cyber ​​Threat Management: digital security aimed at identifying, monitoring and neutralizing cyber threats in real time. School: [Cisco](https://www.cisco.com/site/br/pt/index.html). Duration: 16h.👩‍💻; [here](https://github.com/TllFabri/course-certificate/blob/main/Certificate/Cyber_Threat_Management_certificate_202502517386-alunos-estacio-br_474f7afd-8ece-4ffa-af9d-4441df877462.pdf)
+-Cyber ​​Threat Management: digital security aimed at identifying, monitoring and neutralizing cyber threats in real time. School: [Cisco](https://www.cisco.com/site/br/pt/index.html). Duration: 16h.👩‍💻 [here](https://github.com/TllFabri/course-certificate/blob/main/Certificate/Cyber_Threat_Management_certificate_202502517386-alunos-estacio-br_474f7afd-8ece-4ffa-af9d-4441df877462.pdf)
