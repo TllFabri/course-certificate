@@ -29,7 +29,7 @@ Below is a list of the courses I completed. There are currently 8 courses with a
 
 -Python: Getting Started in Programming: Career and First Steps. School: [Alura](https://www.alura.com.br/). Duration: 1h.&#128013; [here](https://cursos.alura.com.br/user/thiagofabri73/course/comecando-programacao-carreira-primeiros-passos/certificate).
 
-#### Ia
+#### Artificial Intelligence
 
 -immersion artificial intelligence II: Dive into artificial intelligence, from prompt engineering to API usage. School: [Alura](https://www.alura.com.br/). Duration: 6h.&#129302; [here](https://cursos.alura.com.br/user/thiagofabri73/immersion/certificate/32615)
 
