@@ -9,7 +9,7 @@ Reserved repository to list a little of my academic life.&#128526;
 
 ## Certification of Courses <a name="Certification of Courses"></a> &#128204;
 
-Below is a list of the courses I completed. There are currently 7 courses with a total of 41 hours.
+Below is a list of the courses I completed. There are currently 8 courses with a total of 57 hours.
 
 ### Git e GitHub
 
@@ -32,3 +32,7 @@ Below is a list of the courses I completed. There are currently 7 courses with a
 #### Ia
 
 -immersion artificial intelligence II: Dive into artificial intelligence, from prompt engineering to API usage. School: [Alura](https://www.alura.com.br/). Duration: 6h.&#129302; [here](https://cursos.alura.com.br/user/thiagofabri73/immersion/certificate/32615)
+
+### Cybersecurity
+
+-Cyber ​​Threat Management:digital security aimed at identifying, monitoring and neutralizing cyber threats in real time. School: [Cisco](https://www.cisco.com/site/br/pt/index.html). Duration: 16h.👩‍💻; [here]()
