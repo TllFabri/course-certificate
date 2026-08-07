@@ -9,11 +9,15 @@ Reserved repository to list a little of my academic life.&#128526;
 
 ## Certification of Courses <a name="Certification of Courses"></a> &#128204;
 
-Below is a list of the courses I completed. There are currently 8 courses with a total of 57 hours.
+Below is a list of the courses I completed. There are currently 8 courses with a total of 65 hours.
 
 ### Git e GitHub
 
 -Git e GitHub: Sharing and Collaborating on Projects. School: [Alura](https://www.alura.com.br/). Duration: 8h.&#128173; [here](https://cursos.alura.com.br/user/thiagofabri73/course/git-github-compartilhando-colaborando-projetos/certificate)
+
+### Java
+
+-Java primeiros passos: Lógica de Programação e Algoritmos. School: [Udemy](https://www.udemy.com/personal/home/). Duration: 8h.☕ [here](https://www.udemy.com/certificate/UC-8e9313a4-92d5-4070-9e59-1d55b75e74f6/)
 
 #### JavaScript
 
