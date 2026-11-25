@@ -1,42 +1,64 @@
-# My academic life :white_check_mark:
+# 🎓 Minha vida acadêmica
 
-Reserved repository to list a little of my academic life.&#128526;
+Repositório dedicado a reunir minha formação e os cursos que concluí. 😎
 
-## Languages &#9749;&#65039;
+## 📘 Formação
 
-- **Portuguese:** Native speaker, I am Brazilian.
-- **English:** studying
+- **Análise e Desenvolvimento de Sistemas** (em andamento)
 
-## Certification of Courses <a name="Certification of Courses"></a> &#128204;
+## 🌎 Idiomas
 
-Below is a list of the courses I completed. There are currently 8 courses with a total of 65 hours.
+- **Português:** nativo
+- **Inglês:** em estudo
 
-### Git e GitHub
+## 📌 Cursos e certificados
 
--Git e GitHub: Sharing and Collaborating on Projects. Escola: [Alura](https://www.alura.com.br/). Duração: 8h.&#128173; [here](https://cursos.alura.com.br/user/thiagofabri73/course/git-github-compartilhando-colaborando-projetos/certificate)
+Atualmente são **9 cursos**, somando **65 horas**.
 
-### Java
+### 🐍 Python
 
--Java primeiros passos: Lógica de Programação e Algoritmos. School: [Udemy](https://www.udemy.com/personal/home/). Duration: 8h.☕ [here](https://www.udemy.com/certificate/UC-8e9313a4-92d5-4070-9e59-1d55b75e74f6/)
+| Curso | Escola | Duração | Certificado |
+|---|---|---|---|
+| Python: crie a sua primeira aplicação | [Alura](https://www.alura.com.br/) | 8h | [ver](https://cursos.alura.com.br/user/thiagofabri73/course/python-crie-sua-primeira-aplicacao/certificate) |
+| Python: aplicando a Orientação a Objetos | [Alura](https://www.alura.com.br/) | 6h | [ver](https://cursos.alura.com.br/user/thiagofabri73/course/python-aplicando-orientacao-objetos/certificate) |
 
-#### JavaScript
+### 📎 JavaScript
 
--Logic programming I: Dive into programming with JavaScript. School: [Alura](https://www.alura.com.br/). Duration: 6h.&#128206; [here](https://cursos.alura.com.br/user/thiagofabri73/course/logica-programacao-mergulhe-programacao-javascript/certificate)
+| Curso | Escola | Duração | Certificado |
+|---|---|---|---|
+| Lógica de programação: mergulhe em programação com JavaScript | [Alura](https://www.alura.com.br/) | 6h | [ver](https://cursos.alura.com.br/user/thiagofabri73/course/logica-programacao-mergulhe-programacao-javascript/certificate) |
+| Lógica de programação: explore funções e listas | [Alura](https://www.alura.com.br/) | 6h | [ver](https://cursos.alura.com.br/user/thiagofabri73/course/logica-programacao-funcoes-listas/certificate) |
 
--Logic programming II: explore functions and lists. School: [Alura](https://www.alura.com.br/). Duration: 6h.&#128206; [here](https://cursos.alura.com.br/user/thiagofabri73/course/logica-programacao-funcoes-listas/certificate)
+### ☕ Java
 
-### Python
+| Curso | Escola | Duração | Certificado |
+|---|---|---|---|
+| Java primeiros passos: Lógica de Programação e Algoritmos | [Udemy](https://www.udemy.com/) | 8h | [ver](https://www.udemy.com/certificate/UC-8e9313a4-92d5-4070-9e59-1d55b75e74f6/) |
 
--Python: Create your first application. School: [Alura](https://www.alura.com.br/). Duration: 8h.&#128013; [here](https://cursos.alura.com.br/user/thiagofabri73/course/python-crie-sua-primeira-aplicacao/certificate).
+### 🤖 Inteligência Artificial
 
--Python: Applying orientation to objects. School: [Alura](https://www.alura.com.br/). Duration: 6h.&#128013; [here](https://cursos.alura.com.br/user/thiagofabri73/course/python-aplicando-orientacao-objetos/certificate).
+| Curso | Escola | Duração | Certificado |
+|---|---|---|---|
+| Imersão Inteligência Artificial II: da engenharia de prompt ao uso de APIs | [Alura](https://www.alura.com.br/) | 6h | [ver](https://cursos.alura.com.br/user/thiagofabri73/immersion/certificate/32615) |
 
--Python: Getting Started in Programming: Career and First Steps. School: [Alura](https://www.alura.com.br/). Duration: 1h.&#128013; [here](https://cursos.alura.com.br/user/thiagofabri73/course/comecando-programacao-carreira-primeiros-passos/certificate).
+### 🔀 Git e GitHub
 
-#### Artificial Intelligence
+| Curso | Escola | Duração | Certificado |
+|---|---|---|---|
+| Git e GitHub: compartilhando e colaborando em projetos | [Alura](https://www.alura.com.br/) | 8h | [ver](https://cursos.alura.com.br/user/thiagofabri73/course/git-github-compartilhando-colaborando-projetos/certificate) |
 
--immersion artificial intelligence II: Dive into artificial intelligence, from prompt engineering to API usage. School: [Alura](https://www.alura.com.br/). Duration: 6h.&#129302; [here](https://cursos.alura.com.br/user/thiagofabri73/immersion/certificate/32615)
+### 🛡️ Cibersegurança
 
-### Cybersecurity
+| Curso | Escola | Duração | Certificado |
+|---|---|---|---|
+| Cyber Threat Management: identificação, monitoramento e neutralização de ameaças cibernéticas | [Cisco](https://www.netacad.com/) | 16h | [ver](Certificate/Cyber_Threat_Management_certificate_202502517386-alunos-estacio-br_474f7afd-8ece-4ffa-af9d-4441df877462.pdf) |
 
--Cyber ​​Threat Management: digital security aimed at identifying, monitoring and neutralizing cyber threats in real time. School: [Cisco](https://www.cisco.com/site/br/pt/index.html). Duration: 16h.👩‍💻 [here](https://github.com/TllFabri/course-certificate/blob/main/Certificate/Cyber_Threat_Management_certificate_202502517386-alunos-estacio-br_474f7afd-8ece-4ffa-af9d-4441df877462.pdf)
+### 💡 Carreira
+
+| Curso | Escola | Duração | Certificado |
+|---|---|---|---|
+| Começando em Programação: carreira e primeiros passos | [Alura](https://www.alura.com.br/) | 1h | [ver](https://cursos.alura.com.br/user/thiagofabri73/course/comecando-programacao-carreira-primeiros-passos/certificate) |
+
+---
+
+⬅️ [Voltar para o meu perfil](https://github.com/TllFabri)
