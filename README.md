@@ -51,7 +51,7 @@ Atualmente são **9 cursos**, somando **65 horas**.
 
 | Curso | Escola | Duração | Certificado |
 |---|---|---|---|
-| Cyber Threat Management: identificação, monitoramento e neutralização de ameaças cibernéticas | [Cisco](https://www.netacad.com/) | 16h | [ver](Certificate/Cyber_Threat_Management_certificate_202502517386-alunos-estacio-br_474f7afd-8ece-4ffa-af9d-4441df877462.pdf) |
+| Cyber Threat Management: identificação, monitoramento e neutralização de ameaças cibernéticas | [Cisco](https://www.netacad.com/) | 16h | [ver](Certificate/Cyber_Threat_Management_Cisco.pdf) |
 
 ### 💡 Carreira
 
